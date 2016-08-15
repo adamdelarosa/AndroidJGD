@@ -1,4 +1,4 @@
-package com.rosa.game.framework;
+package com.rosa.game;
 
 import com.badlogic.gdx.ApplicationAdapter;
 import com.badlogic.gdx.Gdx;
