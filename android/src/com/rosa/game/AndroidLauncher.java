@@ -4,7 +4,7 @@ import android.os.Bundle;
 
 import com.badlogic.gdx.backends.android.AndroidApplication;
 import com.badlogic.gdx.backends.android.AndroidApplicationConfiguration;
-import com.rosa.game.RunAndroidJGD;
+import com.rosa.game.framework.RunAndroidJGD;
 
 public class AndroidLauncher extends AndroidApplication {
 	@Override
